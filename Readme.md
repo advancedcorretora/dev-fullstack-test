@@ -3,7 +3,8 @@
 ## Definições
 - O desafio a seguir é o dia-a-dia que qualquer desenvolvedor irá enfrentar aqui na Advanced;
 - Leia todo o conteúdo antes de iniciar e busque entender de fato o desafio proposto;
-- Utilize os frameworks de sua preferência.
+- Para o backend, utilize os frameworks de sua preferência.
+- Para o frontend, utilizar ReactJs.
 - Não se trata de um desafio complexo, apesar da leitura ser extensa;
 - O desafio baseia-se em construir uma API que deverá consumir 2 APIs de diferentes fontes de dados com intuito de agregar as informações e solucionar o problema de acordo com o que foi proposto e mostrar essas mesmas informações no frontend;
 - Não completar o desafio não será critério para desclassificação, iremos analisar como a proposta do desafio foi elaborada e não somente o resultado;
@@ -161,7 +162,7 @@ A plataforma PokéAPI não exige token de autenticação o que torna sua utiliza
 - Na documentação deve constar as tecnologias utilizadas; (requisito obrigatório)
 - Qualquer coisa adicionada como extra por parte do desenvolvedor, por exemplo exibir a imagem do pokémon na tela, será contabilizada como ponto extra, desde que os outros requisitos estejam 100% funcionais; (não é um requisito obrigatório)
 - Todo o código deve ser adicionado no em seu Github pessoal, além da documentação no formato markdown facilmente aceito pelo github. (requisito obrigatório)
-- Utilização de Typescript também contará como ponto adicional.
+- Utilização de Typescript no front e backend também contará como ponto adicional.
 
 ## O que será avaliado
 - Seu domínio com as linguagens utilizadas
